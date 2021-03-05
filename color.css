@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+
+.colors{
+    max-width: 98%;
+}
+ul{
+    list-style-type: none;
+    width: 96%;
+
+}
+ul li:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+ul li:nth-child(1){
+    background-color: #f2ced5;
+    height: 200px;
+}
+
+
+ul li:nth-child(2){
+    background-color:#023e73;
+    height: 200px;
+}
+ul li:nth-child(3){
+    background-color: #55a6d9;
+    height: 200px;
+    
+}
+ul li:nth-child(4){
+    background-color: #bd912d;
+    height: 200px;
+}
+ul li:nth-child(5){
+    background-color: #f2eadf;
+    height: 200px;
+}
